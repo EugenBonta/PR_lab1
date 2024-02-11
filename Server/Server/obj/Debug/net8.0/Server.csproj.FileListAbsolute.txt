@@ -1,0 +1,14 @@
+C:\_University\PR\lab1\Server\Server\bin\Debug\net8.0\Server.exe
+C:\_University\PR\lab1\Server\Server\bin\Debug\net8.0\Server.deps.json
+C:\_University\PR\lab1\Server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\_University\PR\lab1\Server\Server\bin\Debug\net8.0\Server.dll
+C:\_University\PR\lab1\Server\Server\bin\Debug\net8.0\Server.pdb
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.dll
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\refint\Server.dll
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.pdb
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\_University\PR\lab1\Server\Server\obj\Debug\net8.0\ref\Server.dll
