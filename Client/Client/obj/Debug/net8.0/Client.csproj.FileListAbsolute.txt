@@ -1,0 +1,14 @@
+C:\_University\PR\lab1\Client\Client\bin\Debug\net8.0\Client.exe
+C:\_University\PR\lab1\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\_University\PR\lab1\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\_University\PR\lab1\Client\Client\bin\Debug\net8.0\Client.dll
+C:\_University\PR\lab1\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.dll
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\_University\PR\lab1\Client\Client\obj\Debug\net8.0\ref\Client.dll
